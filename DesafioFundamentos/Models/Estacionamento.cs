@@ -77,6 +77,6 @@ namespace DesafioFundamentos.Models
         }
     }
 }
-// Entrega do desafio dia 27/12/2023
+// Entrega do desafio dia 02/01/2024
 // Onde foi implementado as seguintes linhas : 24, 26, 50, 68 ao 71.
 // Modificado as linhas : 35, 45 e 46.  
